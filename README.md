@@ -32,7 +32,7 @@ A remake of Battle Gear (1998), rebuilt using the Grand Prix Legends engine, com
 
 [![Grand Prix Legends](https://raw.githubusercontent.com/igiteam/grand-prix-legends-battle-gear-2-psx/refs/heads/main/Grand_Prix_Legends.png)](https://archive.org/details/grand-prix-legends)
 
-[![Battle Gear 2 PSX](github.com/igiteam/grand-prix-legends-battle-gear-2-psx/blob/main/battle-gear-2-psx.png?raw=true)](https://archive.org/details/battle-gear-2-ntsc-j)
+[![Battle Gear 2 PSX](https://raw.githubusercontent.com/igiteam/grand-prix-legends-battle-gear-2-psx/refs/heads/main/battle-gear-2-psx.png)](https://archive.org/details/battle-gear-2-ntsc-j)
 
 
 ## Dev Environment
